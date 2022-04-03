@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lucifer-7003
+- 👋 Hi, I’m Aditya Vishwakarma(@Lucifer-7003)
 - 👀 I’m interested in Python, Bootstrap C and many more. 
 - 🌱 I’m currently learning Python
 - 📫 How to reach me </a>Aditya.v2003@gmail.com</a>
