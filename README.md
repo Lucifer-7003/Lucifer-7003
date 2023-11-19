@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya Vishwakarma(@Lucifer-7003)
-- 👀 I’m interested in Python, Bootstrap C and many more. 
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Web Dev, Flutter, Android and many more. 
+- 🌱 I’m currently learning PHP
 - 📫 How to reach me </a>Aditya.v2003@gmail.com</a>
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
